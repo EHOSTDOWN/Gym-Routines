@@ -22,6 +22,10 @@ Breakfast (🥣)
 
 => NOCCO BCAA+ Carbonated Caffeine Free 4:1:1 (5000 mg)
 
+=> Reflex Omega 3 Capsules
+    of which EPA (Eicosapentaenoic Acid): 330 mg
+    of which DHA (Docosahexaenoic Acid): 220 mg
+
 Snack (🍎)
 => Grenade Carb Killa Bar Dark Chocolate Raspberry
 - Energy: 1489 kJ / 357 kcal
@@ -35,6 +39,10 @@ Snack (🍎)
     
 Lunch (🥪)
 => Reflex L-Glutamine 5g
+
+=> Reflex Omega 3 Capsules
+    of which EPA (Eicosapentaenoic Acid): 330 mg
+    of which DHA (Docosahexaenoic Acid): 220 mg
 
 Snack (🍎)
 => Grenade Carb Killa Bar Dark Chocolate Raspberry
@@ -60,6 +68,10 @@ Snack (🍎)
 
 Dinner (🥘)
 => Reflex L-Glutamine 5g
+
+=> Reflex Omega 3 Capsules
+    of which EPA (Eicosapentaenoic Acid): 330 mg
+    of which DHA (Docosahexaenoic Acid): 220 mg
 
 Meal 2 (🍳)
 
