@@ -126,7 +126,7 @@ Feeder Workout (💪)
 - Leg Curl (6/30/20)
 
 Snack (🍎)
-=> Grenade Carb Killa High Protein and Low Carb Bar 60g Dark Chocolate Raspberry (1.50p)
+=> Grenade Carb Killa High Protein and Low Carb Bar 60g Dark Chocolate Raspberry
   = Calories: 214 
     Carbs: 13g
     Fats: 8g
@@ -140,12 +140,12 @@ Lunch (🥪)
 Snack (🍎)
 => Reflex Creapure Creatine 10g
 => Reflex L-Glutamine 5g
-=> Grenade Carb Killa High Protein and Low Carb Bar 60g Dark Chocolate Raspberry (1.50p)
+=> Grenade Carb Killa High Protein and Low Carb Bar 60g Dark Chocolate Raspberry
   = Calories: 214 
     Carbs: 13g
     Fats: 8g
     Protein: 23g  
-=> Innocent Protein Super Smoothie Berry 360Ml (1.10p)
+=> Innocent Protein Super Smoothie Berry 360Ml
   = Calories: 212
     Carbs: 38
     Fats: 3
@@ -186,7 +186,7 @@ Dinner (🥘)
     of which EPA (Eicosapentaenoic Acid): 330 mg
     of which DHA (Docosahexaenoic Acid): 220 mg
 
-=> Innocent Protein Super Smoothie Berry 360Ml (1.10p)
+=> Innocent Protein Super Smoothie Berry 360Ml
   = Calories: 212
     Carbs: 38
     Fats: 3
@@ -200,6 +200,12 @@ Meal 2 (🍳)
 => 4 Large Eggs
 
 => 2 Pieces of Toast
+
+=> Nature Valley Protein Peanut Bar
+  = Calories: 200
+    Carbs: 9 
+    Fats: 12
+    Protein: 10
 
 
 
