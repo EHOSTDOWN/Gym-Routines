@@ -143,6 +143,31 @@ Dinner (🥘)
     Protein: 8
 
 Abs Workout (💪)
+=> ROUTINE 1 <=
+- Pushup (1/25)
+- Plank (1/30s/20)
+- Plank (1/30s/20)
+- Plank (1/30s/20)
+- Pushup (1/25)
+- Ab Roller (1/10)
+
+=> ROUTINE 2 <=
+- Pushup (1/25)
+- Bicep Band Curl (1/15)
+- Trap Band Pull (1/15)
+- Hollow Hold (1/30s)
+- Arm through leg crunch (1/50s)
+- Arms tap side and cycle legs (1/50s)
+- Feet Crossover (1/50s)
+- V-Hold Crunch (1/30s)
+- Crunch (1/30s)
+- Cross Cycle Crunch (1/30s)
+- Plank (1/40s)
+- Ab Roller (1/10)
+- Medicine Ball Russian Twist (1/20)
+- Medicine Ball Curl Up (1/20)
+
+(R1/15/R2/10/R2/10/R2/10/R2/10/R1)
 
 Meal 2 (🍳)
 => Reflex L-Glutamine 5g
