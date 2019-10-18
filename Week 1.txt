@@ -174,7 +174,24 @@ Abs Workout (💪)
 - Medicine Ball Curl Up (1/20)
 - Oblique Crunch (2/30s)
 
-(R1/15/R2/10/R2/10/R2/10/R2/10/R1)
+=> ROUTINE 3 <=
+- Pushup (1/Burnout)
+- Bicep Band Curl (1/Burnout)
+- Trap Band Pull (1/Burnout)
+- Hollow Hold (1/Burnout)
+- Arm through leg crunch (1/Burnout)
+- Arms tap side and cycle legs (1/Burnout)
+- Feet Crossover (1/Burnout)
+- V-Hold Crunch (1/Burnout)
+- Crunch (1/Burnout)
+- Cross Cycle Crunch (1/Burnout)
+- Plank (1/Burnout)
+- Ab Roller (1/Burnout)
+- Medicine Ball Russian Twist (1/Burnout)
+- Medicine Ball Curl Up (1/Burnout)
+- Oblique Crunch (1/Burnout)
+
+(R1/15/R2/10/R2/10/R2/10/R2/10/R1/15/R3)
 
 Meal 2 (🍳)
 => Reflex L-Glutamine 5g
